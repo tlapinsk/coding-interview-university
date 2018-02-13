@@ -10,7 +10,7 @@ main()
     upper = 300;
     step = 20;
 
-    printf("%3s %6s", "Fahrenheit", "Celsius");
+    printf("%3s %6s\n", "Fahrenheit", "Celsius");
     while (fahr <= upper)
     {
         celsius = (5.0/9.0) * (fahr - 32);
