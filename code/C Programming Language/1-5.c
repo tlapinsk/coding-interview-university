@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* Print fahrenheit-celsius decremented */
-main()
+int main()
 {
     int fahr;
 
